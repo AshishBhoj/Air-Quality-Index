@@ -1,0 +1,37 @@
+Andaman and Nicobar Islands  : AQI 37 
+Arunachal Pradesh  : AQI 21 
+Bihar  : AQI 199 
+Chhattisgarh  : AQI 51 
+Daman and Diu  : AQI 193 
+Goa  : AQI 43 
+Haryana  : AQI 183 
+Jharkhand  : AQI 3066 
+Karnataka  : AQI 136 
+Koshi  : AQI 26 
+Madhya Pradesh  : AQI 186 
+Manipur  : AQI 49 
+Mizoram  : AQI 82 
+Odisha  : AQI 181 
+Punjab  : AQI 159 
+Sikkim  : AQI 86 
+Telangana  : AQI 168 
+Uttar Pradesh  : AQI 206 
+West Bengal  : AQI 365 
+Andhra Pradesh  : AQI 186 
+Assam  : AQI 295 
+Chandigarh  : AQI 156 
+Dadra and Nagar Haveli  : AQI 193 
+Delhi  : AQI 310 
+Gujarat  : AQI 163 
+Himachal Pradesh  : AQI 183 
+Karimganj  : AQI 54 
+Kerala  : AQI 138 
+Lakshadweep  : AQI 20 
+Maharashtra  : AQI 162 
+Meghalaya  : AQI 38 
+Nagaland  : AQI 9 
+Puducherry  : AQI 133 
+Rajasthan  : AQI 183 
+Tamil Nadu  : AQI 140 
+Tripura  : AQI 159 
+Uttarakhand  : AQI 99 
